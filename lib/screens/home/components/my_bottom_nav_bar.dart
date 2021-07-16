@@ -3,8 +3,8 @@ import 'package:flutter_svg/svg.dart';
 
 import '../../../constants.dart';
 
-class BottomNavBar extends StatelessWidget {
-  const BottomNavBar({
+class MyBottomNavBar extends StatelessWidget {
+  const MyBottomNavBar({
     Key key,
   }) : super(key: key);
 
